@@ -3,7 +3,7 @@ using namespace std;
 
 void generar_pares(int a[], int n);
 void imprimir(int a[], int n);
-
+// practicar funciones
 int main() {
   int arreglo[50], tamaño;
   cout << "Ingrese el tamaño del arreglo: ";
